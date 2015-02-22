@@ -10,6 +10,9 @@
     "bootstrap",
     "plugin"
   ],
+  "dependencies": {
+    "jquery": ">=1.6"
+  },
   "main": [
     "dist/jquery-enable-disable.min.js"
   ],
