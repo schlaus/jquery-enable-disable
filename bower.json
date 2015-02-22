@@ -1,6 +1,6 @@
 {
   "name": "jquery-enable-disable",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simple, lightweight jQuery plugin that adds methods to enable and disable elements, as well as to chcek whether an element is enabled or disabled. Designed to work well together with Bootstrap!",
   "keywords": [
     "enable",

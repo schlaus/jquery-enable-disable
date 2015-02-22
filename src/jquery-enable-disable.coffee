@@ -1,5 +1,5 @@
 ###
-# jquery-enable-disable plugin v1.0.0
+# jquery-enable-disable plugin v1.0.2
 # https://github.com/schlaus/jquery-enable-disable
 # 
 # A simple, lightweight jQuery plugin that adds methods
