@@ -20,6 +20,9 @@
       "url": "http://schlaus.mit-license.org"
     }
   ],
+  "dependencies": {
+    "jquery": ">=1.6"
+  },
   "bugs": "https://github.com/schlaus/jquery-enable-disable/issues",
   "repository": "https://github.com/schlaus/jquery-enable-disable"
 }
